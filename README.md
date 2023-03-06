@@ -1,6 +1,7 @@
 # BackUp_Scenario
 Backup datebase scenario for a large, mission-critical, 24x7 database 
 and  Recovery Point Objective (RPO) = 5min
+with file names for differential and incremental backups, that include the datenow-date of backup
 
 This scenario consists of 3 steps:
    1.Full database backup at 03:00 every Sunday
