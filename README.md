@@ -9,3 +9,5 @@ This scenario consists of 3 steps:
    3.Incremental backups every 5 minutes. For this target is used transaction log backups,which allow you to recover to a point-in-time and only lose 5 minutes worth of      data
    
    The scenario can be implemented using a Job or Maintenance Plan.
+
+Details instruction: https://docs.google.com/document/d/1ijLSl24NA11PLPKwkk2gybpQNPpsOOzjNw9DwOQlX4A/edit?usp=sharing
